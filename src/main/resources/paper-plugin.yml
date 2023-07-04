@@ -1,0 +1,4 @@
+name: mc-logging-test
+version: '${project.version}'
+main: dev.lawg.mcloggingtest.Main
+api-version: '1.20'
